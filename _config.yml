@@ -1,5 +1,7 @@
 title: Tokyo University of Science Alpine Club
 email: sangaku1@ed.tus.ac.jp
+url: https://tus-alpine-team.github.io
+repository: https://github.com/tus-alpine-team/tus-alpine-team.github.io
 theme: jekyll-theme-hacker
 twitter_username: tus_alpine
 strict_front_matter: true
