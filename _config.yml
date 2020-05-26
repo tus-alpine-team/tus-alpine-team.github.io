@@ -1,8 +1,12 @@
 title: Tokyo University of Science Alpine Club
 email: sangaku1@ed.tus.ac.jp
+name: 東京理科大学 I部体育局 山岳部 公式web site
+description: 山はいいぞ。
 url: https://tus-alpine-team.github.io
+description: 
 repository: https://github.com/tus-alpine-team/tus-alpine-team.github.io
 theme: jekyll-theme-midnight
+github_username: tus-alpine
 twitter_username: tus_alpine
 strict_front_matter: true
 exclude:
