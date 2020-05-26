@@ -1,12 +1,14 @@
 ---
-title: Home | Tokyo University of Science Alpine Club
+title: "Home | Tokyo University of Science Alpine Club"
 layout: default
 ---
-# Tokyo University of Science Alpine Club
-> 工事中です。<br/>
+# Welcome!
+
+> 工事中です。
+> 
 > 今年中に完成する……かもしれない。maybe.
 
-## Contact Alpine Club
+# Contact Alpine Club
 
 - [Old home page](https://www-cgi.ed.tus.ac.jp/tus-cgi-bin/sangaku1/fswiki/wiki.cgi)
 - [twitter account](https://twitter.com/tus_alpine)
