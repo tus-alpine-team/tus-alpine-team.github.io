@@ -3,7 +3,7 @@ title: Home | Tokyo University of Science Alpine Club
 layout: default
 ---
 # Tokyo University of Science Alpine Club
-> 工事中です
+> 工事中です。<br/>
 > 今年中に完成する……かもしれない。maybe.
 
 ## Contact Alpine Club
